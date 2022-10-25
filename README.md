@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![test.png](http://scott-test.mlytics.xyz/images/home1.jpg)
+![test.png](https://scott-test.mlytics.xyz/images/home1.jpg)
 
 <!--
 **scott-mlytics/scott-mlytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
